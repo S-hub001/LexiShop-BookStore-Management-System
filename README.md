@@ -12,7 +12,6 @@ LexiShop is an online bookstore management system developed using PHP, HTML/CSS,
 - 📦 **Inventory management** (admin side)
 
 ## 📌 Technologies Used
-
 - **Frontend**: HTML, CSS  
 - **Backend**: PHP  
 - **Database**: MySQL  
